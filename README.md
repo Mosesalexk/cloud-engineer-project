@@ -110,5 +110,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or feedback, please reach out to [your email address].
+For questions or feedback, please reach out to alexmosesk@icloud.com.
 
